@@ -2,7 +2,7 @@
 
 Edwin
 
-learning • building • breaking • repeating
+learning • building • refining • repeating
 
 <br>
 curiosity first.
