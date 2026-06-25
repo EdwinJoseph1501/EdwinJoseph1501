@@ -2,17 +2,14 @@
 
 Edwin
 
-[ learning ]
-[ building ]
-[ iterating ]
-[ repeating ]
+learning • building • breaking • repeating
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<br>
+curiosity first.
+systems second.
+code third.
+<br>
 
-I like understanding things deeply.
-
-Code is one way of doing that.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+I like understanding how things work.
 
 </div>
